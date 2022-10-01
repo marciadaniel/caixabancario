@@ -39,7 +39,8 @@ public class TesteContaCorrente {
 		case 4:
 			conta.verificarChequeEspecial();
 			break;
-
+		default:
+			System.out.println("Opção inválida!");
 		}
 		
 		
